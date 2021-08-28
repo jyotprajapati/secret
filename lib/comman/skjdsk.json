@@ -1,0 +1,225 @@
+{
+    "likedNotification": [
+        {
+            "liked_on": "2021-08-21T11:48:09.659Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 55,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624638915582.mp4",
+                "latitude": 18.5451186,
+                "longitude": 73.8273701,
+                "city": "Pune",
+                "state": "Maharashtra",
+                "video_views": 38,
+                "video_likes": 4,
+                "video_comments": 4,
+                "video_reported": 0,
+                "video_caption": "Awesome roads and environment inside Pune university"
+            }
+        },
+        {
+            "liked_on": "2021-08-21T11:47:59.057Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 66,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624810486306.mp4",
+                "latitude": 18.3911431,
+                "longitude": 73.8562701,
+                "city": null,
+                "state": "Maharashtra",
+                "video_views": 46,
+                "video_likes": 5,
+                "video_comments": 0,
+                "video_reported": 0,
+                "video_caption": "Road with potholes and streams of water"
+            }
+        },
+        {
+            "liked_on": "2021-08-21T11:47:46.183Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 69,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624811236000.mp4",
+                "latitude": 18.2948008,
+                "longitude": 73.6391003,
+                "city": "Velhe",
+                "state": "Maharashtra",
+                "video_views": 74,
+                "video_likes": 6,
+                "video_comments": 1,
+                "video_reported": 0,
+                "video_caption": "Green and white hues all along the journey. Imagine what they get to see every day.... "
+            }
+        },
+        {
+            "liked_on": "2021-08-21T11:47:35.784Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 62,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624809064191.mp4",
+                "latitude": 18.5075336,
+                "longitude": 73.7847407,
+                "city": "Pune",
+                "state": "Maharashtra",
+                "video_views": 54,
+                "video_likes": 4,
+                "video_comments": 0,
+                "video_reported": 0,
+                "video_caption": "Extremely loud stretch of highway due to road interchange work near chandni chowk, Pune"
+            }
+        },
+        {
+            "liked_on": "2021-08-21T11:47:26.614Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 63,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624809252293.mp4",
+                "latitude": 18.4642766,
+                "longitude": 73.8188049,
+                "city": "Pune",
+                "state": "Maharashtra",
+                "video_views": 50,
+                "video_likes": 4,
+                "video_comments": 0,
+                "video_reported": 0,
+                "video_caption": "Rain showing that's it's their time right now.... & a motorcyclist not maintaining his lane"
+            }
+        }
+    ],
+    "commentNotification": [
+        {
+            "comment_on": "2021-08-21T11:49:16.052Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 49,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624637716809.mp4",
+                "latitude": 18.5273046,
+                "longitude": 73.784848,
+                "city": "Pune",
+                "state": "Maharashtra",
+                "video_views": 21,
+                "video_likes": 1,
+                "video_comments": 1,
+                "video_reported": 0,
+                "video_caption": "The less crowded stretches of pashan and bavdhan for stress free drives"
+            }
+        },
+        {
+            "comment_on": "2021-08-21T11:49:01.886Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 75,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1625487914127.mp4",
+                "latitude": 18.5604287,
+                "longitude": 73.8420901,
+                "city": "Pune",
+                "state": "Maharashtra",
+                "video_views": 20,
+                "video_likes": 1,
+                "video_comments": 2,
+                "video_reported": 0,
+                "video_caption": "Khadki station area may be chaotic but it can offer some really amazing landscapes & views around it"
+            }
+        },
+        {
+            "comment_on": "2021-08-21T11:48:48.949Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 50,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624638063556.mp4",
+                "latitude": 18.507953,
+                "longitude": 73.7881265,
+                "city": "Pune",
+                "state": "Maharashtra",
+                "video_views": 25,
+                "video_likes": 2,
+                "video_comments": 1,
+                "video_reported": 0,
+                "video_caption": "Work in progress on Bangalore Bombay highway near chandni chowk for inter change"
+            }
+        },
+        {
+            "comment_on": "2021-08-21T11:48:35.351Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            },
+            "video_info": {
+                "id": 67,
+                "video_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev116847249300284705911satishmalani/videos/1624810629569.mp4",
+                "latitude": 18.2485895,
+                "longitude": 73.8729178,
+                "city": "Nidhan",
+                "state": "Maharashtra",
+                "video_views": 50,
+                "video_likes": 4,
+                "video_comments": 1,
+                "video_reported": 0,
+                "video_caption": "Mesmerising internal roads surrounded by lush green jungles and fields"
+            }
+        }
+    ],
+    "followNotification": [
+        {
+            "follow_on": "2021-08-21T13:29:15.375Z",
+            "other_user": {
+                "id": 2,
+                "name": "PK",
+                "email": "pk.mistry.dhn@gmail.com",
+                "photo_url": "https://dev-roadclip.s3.ap-south-1.amazonaws.com/canrivo/dev113224313880171373082pkmistry/profilePics/1624703494508.jpg",
+                "bio": "I m a flutter developer"
+            }
+        }
+    ]
+}
